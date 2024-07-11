@@ -32,7 +32,7 @@ To set up and run this project on your local machine, follow these steps:
    Dataset link - [IISC Dataset](https://www.kaggle.com/competitions/isic-2024-challenge/data). 
    Extract the zip files to the local location where you cloned this repo
 
-5. **Run the Early-Skin-Cancer-Detection-lgbm.ipynb file**
+5. **Run the Early-Skin-Cancer-Detection-lgbm.ipynb file:**
    Make sure to change the paths in the ipynb file to the location where you have saved the ISIC 2024 dataset.
 
 ## Contributing
