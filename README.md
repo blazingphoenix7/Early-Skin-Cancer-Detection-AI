@@ -18,6 +18,7 @@ To set up and run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/blazingphoenix7/Early-Skin-Cancer-Detection-AI.git
    ```
+You can also directly clone this repository by clicking on Code->Download zip. 
 
 2. **Navigate to the project directory:**
    ```bash
