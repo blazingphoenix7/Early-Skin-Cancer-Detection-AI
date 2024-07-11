@@ -21,7 +21,7 @@ To set up and run this project on your local machine, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Early-Skin-Cancer-Detection-AI
+   cd Early-Skin-Cancer-Detection-AI-main
    ```
 
 3. **Install required dependencies:**
