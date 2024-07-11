@@ -29,7 +29,7 @@ To set up and run this project on your local machine, follow these steps:
    pip install -r requirements.txt
    ```
 4. **Download the dataset:**
-   Dataset link - [IISC Dataset](https://www.kaggle.com/competitions/isic-2024-challenge/data)
+   Dataset link - [IISC Dataset](https://www.kaggle.com/competitions/isic-2024-challenge/data). 
    Extract the zip files to the local location where you cloned this repo
 
 5. **Run the Early-Skin-Cancer-Detection-lgbm.ipynb file**
