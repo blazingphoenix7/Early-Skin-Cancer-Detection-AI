@@ -33,4 +33,15 @@ To set up and run this project on your local machine, follow these steps:
    Extract the zip files to the local location where you cloned this repo
 
 5. **Run the Early-Skin-Cancer-Detection-lgbm.ipynb file**
-   Make sure to change the paths in the ipynb file to the location where you have saved the ISIC 2024 dataset. 
+   Make sure to change the paths in the ipynb file to the location where you have saved the ISIC 2024 dataset.
+
+## Contributing
+We welcome contributions to improve the algorithm's efficiency or test it with different datasets. Please feel free to fork the repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is made available under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+Kaggle and the ISIC for organizing the competition and providing the dataset.
+All the researchers and developers whose libraries facilitated this project.
+Mentors and collaborators who provided insights and reviews throughout the development process.
